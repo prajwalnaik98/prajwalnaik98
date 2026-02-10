@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year Information Science & Engineering student<br>💼 Currently pursuing an internship in Machine Learning<br>🌱 Currently enhancing my skills in:<br>       Python for Machine Learning and data analysis<br>       Core Machine Learning concepts and model development<br>🤝 Open to collaboration on:<br>      Machine Learning projects using Python<br>      ML-integrated backend applications<br>📫 Reach out to me at: your-pnaik8241@gmail.com
+🎓 Final-year Information Science & Engineering student<br>💼 Currently pursuing an internship in Machine Learning<br>🌱 Currently enhancing my skills in:<br>       Python for Machine Learning and data analysis<br>       Core Machine Learning concepts and model development<br>🤝 Open to collaboration on:<br>      Machine Learning projects using Python<br>      ML-integrated backend applications<br>📫 Reach out to me at: -pnaik8241@gmail.com
 
 
 # 💻 Tech Stack:
