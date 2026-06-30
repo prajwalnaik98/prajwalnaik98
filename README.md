@@ -1,7 +1,10 @@
 #  About Me:
  Final-year Information Science & Engineering student<br> Currently pursuing an internship in Machine Learning<br> Currently enhancing my skills in:<br>       Python for Machine Learning and data analysis<br>       Core Machine Learning concepts and model development<br> Open to collaboration on:<br>      Machine Learning projects using Python<br>      ML-integrated backend applications<br>Reach out to me at: -pnaik8241@gmail.com
 
+## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-naik-9362b0327/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/prajwalnaik98)
 
 
 
