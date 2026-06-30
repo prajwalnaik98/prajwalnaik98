@@ -1,5 +1,13 @@
 #  About Me:
- Final-year Information Science & Engineering student<br> Currently pursuing an internship in Machine Learning<br> Currently enhancing my skills in:<br>       Python for Machine Learning and data analysis<br>       Core Machine Learning concepts and model development<br> Open to collaboration on:<br>      Machine Learning projects using Python<br>      ML-integrated backend applications<br>Reach out to me at: -pnaik8241@gmail.com
+Information Science & Engineering Graduate (2026)
+
+Currently pursuing  AI/ML Engineering Internship.
+
+Aspiring Data Scientist and Data Analyst with a strong interest in Machine Learning, Data Analytics, and AI.
+
+Open to Data Science and Data Analytics opportunities.
+
+Email: pnaik8241@gmail.com
 
 ## 🌐 Connect with Me
 
