@@ -3,7 +3,7 @@ Information Science & Engineering Graduate (2026)
 
 Currently pursuing  AI/ML Engineering Internship.
 
-Aspiring Data Scientist and Data Analyst with a strong interest in Machine Learning, Data Analytics, and AI.
+ Data Scientist and Data Analyst with a strong interest in Machine Learning, Data Analytics, and AI.
 
 Open to Data Science and Data Analytics opportunities.
 
